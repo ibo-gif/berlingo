@@ -1,0 +1,52 @@
+{
+  "languages": [
+    {
+      "code": "en",
+      "name": "Английский",
+      "flag": "🇬🇧",
+      "description": "Learn English from basics"
+    },
+    {
+      "code": "zh",
+      "name": "Китайский",
+      "flag": "🇨🇳",
+      "description": "Learn Mandarin Chinese"
+    },
+    {
+      "code": "ko",
+      "name": "Корейский",
+      "flag": "🇰🇷",
+      "description": "Learn Korean language"
+    },
+    {
+      "code": "es",
+      "name": "Испанский",
+      "flag": "🇪🇸",
+      "description": "Learn Spanish language"
+    },
+    {
+      "code": "fr",
+      "name": "Французский",
+      "flag": "🇫🇷",
+      "description": "Learn French language"
+    },
+    {
+      "code": "de",
+      "name": "Немецкий",
+      "flag": "🇩🇪",
+      "description": "Learn German language"
+    },
+    {
+      "code": "ja",
+      "name": "Японский",
+      "flag": "🇯🇵",
+      "description": "Learn Japanese language"
+    },
+    {
+      "code": "ru",
+      "name": "Русский",
+      "flag": "🇷🇺",
+      "description": "Learn Russian language"
+    }
+  ]
+}
